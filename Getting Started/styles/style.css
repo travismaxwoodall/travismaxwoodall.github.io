@@ -1,0 +1,47 @@
+html{
+    background-color: #F2F4F3;
+    font-size: 10px;
+    color: #111;
+}
+
+body{
+    background-color: #A9927D; 
+    border: 5px solid black;
+    font-family: 'Vollkorn', serif;
+    margin: auto;
+    width: 75%;
+    padding: 15px;
+}
+
+img{
+    border: 3px solid white;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+p, li{
+    font-size: 15px;
+    line-height: 2;
+}
+
+h1{
+    text-align: center;
+    color: #F2F4F3;
+    border-bottom: solid 3px white;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.informative-link{
+    text-align: center;
+}
